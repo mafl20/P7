@@ -1,0 +1,866 @@
+fileFormatVersion: 2
+guid: 1bb3ed8bef9b0274883af9943f06d2fb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 00PeriodicTable_0
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2708
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401c52d2070f94542bafcdf85d94b3bd
+      internalID: -1538310949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lithium
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2168
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b792d3aaf6d184eae4982a8c3731c4
+      internalID: 2036987954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nitrogen
+      rect:
+        serializedVersion: 2
+        x: 7744
+        y: 2168
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acaee99998e20f04b9e0f3d03edad5fb
+      internalID: -1478393360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxygen
+      rect:
+        serializedVersion: 2
+        x: 8275
+        y: 2168
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d18db6a015352d41a88f192e28fec4f
+      internalID: -336436242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fluor
+      rect:
+        serializedVersion: 2
+        x: 8806
+        y: 2168
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d70699997eba640a3a560c4762077f
+      internalID: 1578699391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natrium
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1628
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665e9f81e7ba528428abae3109684a3c
+      internalID: 1965918448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnesium
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1628
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253d26c7457d07f46a2b240375d2fa40
+      internalID: -1407017380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluminium
+      rect:
+        serializedVersion: 2
+        x: 6682
+        y: 1628
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5229e53a54e91ad48a00fcba54493005
+      internalID: 2135174225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fosfor
+      rect:
+        serializedVersion: 2
+        x: 7744
+        y: 1628
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41976bbec014c8746b33f41c34c0c855
+      internalID: 1660465669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sulfur
+      rect:
+        serializedVersion: 2
+        x: 8275
+        y: 1628
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d31657324239f947b1145bf48703fa5
+      internalID: 1226722628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klor
+      rect:
+        serializedVersion: 2
+        x: 8806
+        y: 1628
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbd0f399fe2e5d41839c1d21eee5ace
+      internalID: 1375688795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kalium
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1088
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0e676f39f740241b02da068e4d659d
+      internalID: 203199857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calcium
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1088
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843246360a6e8d944aa538234a570937
+      internalID: -677462024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lithium Compound Mask
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1088
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c182b7b29cc44e49850120a8f9abe1f
+      internalID: -1594452041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lithium Compound
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1088
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bf4413b05772d419a9c53c9d3704ed
+      internalID: 1115480637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluminium Compound Mask
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 1088
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d01a2c73c5957744b956304ac2a36a1
+      internalID: 624396452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluminium Compound
+      rect:
+        serializedVersion: 2
+        x: 4558
+        y: 1088
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e514acef7f63a40a3a5ef16929f222
+      internalID: -1124199635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zink
+      rect:
+        serializedVersion: 2
+        x: 6151
+        y: 1088
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99b5b8d45e9e5c499080b1bec0f16e9
+      internalID: -1136987212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brom
+      rect:
+        serializedVersion: 2
+        x: 8806
+        y: 1088
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbba8b4111e31e940bc092dc144d88fa
+      internalID: 1606445812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natrium Compound Mask
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 548
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af2d90646daa1242a84e0eaae7597f3
+      internalID: 1112146983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natrium Compound
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 548
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00241a3dc2919b4ea4e2d73f9be9a3a
+      internalID: 1720668091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnesium Compound Mask
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 548
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e9b2aff3af72e4cbbca0f5e9ba7f3e
+      internalID: 1067519923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnesium Compound
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 548
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf628ed34915b546a1407d0008d9915
+      internalID: -285789716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zink Compound Mask
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 548
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c03dac77426d543a73cf7655ee9408
+      internalID: -112700412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zink Compound
+      rect:
+        serializedVersion: 2
+        x: 4558
+        y: 548
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c62ef2c8c4bcdf49bb2b81e497a19a8
+      internalID: 102740304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xF8lv"
+      rect:
+        serializedVersion: 2
+        x: 5620
+        y: 548
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89471faebac49140a0ea1505c538550
+      internalID: -712596999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iod
+      rect:
+        serializedVersion: 2
+        x: 8806
+        y: 548
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ff5537213021443b5b407c4956fe7c
+      internalID: -1838469614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kalium Compound Mask
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 8
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25371c947341aa43b93742bb23ea98c
+      internalID: 1568186622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kalium Compound
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 8
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84567f42ff62c2468604ad6291706a2
+      internalID: 40102520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calcium Compound Mask
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 8
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21148acad5dd91d45a3276fff2e6c626
+      internalID: -241369525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calcium Compound
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 8
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d401a5778603e43b153b5b4063208f
+      internalID: -1395654842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xF8lv Compound Mask"
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 8
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68223f9794339844685edebadc1f6199
+      internalID: -1177340556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xF8lv Compound"
+      rect:
+        serializedVersion: 2
+        x: 4558
+        y: 8
+        width: 520
+        height: 520
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c87d8aeca19fc4f82f33de9d6d275f
+      internalID: -1096662270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c53dc7fcc68af8b43845992f317295a8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      00PeriodicTable_0: -1538310949
+      Aluminium: 2135174225
+      Aluminium Compound: -1124199635
+      Aluminium Compound Mask: 624396452
+      Brom: 1606445812
+      Calcium: -677462024
+      Calcium Compound: -1395654842
+      Calcium Compound Mask: -241369525
+      Fluor: 1578699391
+      Fosfor: 1660465669
+      Iod: -1838469614
+      Kalium: 203199857
+      Kalium Compound: 40102520
+      Kalium Compound Mask: 1568186622
+      Klor: 1375688795
+      Lithium: 2036987954
+      Lithium Compound: 1115480637
+      Lithium Compound Mask: -1594452041
+      Magnesium: -1407017380
+      Magnesium Compound: -285789716
+      Magnesium Compound Mask: 1067519923
+      Natrium: 1965918448
+      Natrium Compound: 1720668091
+      Natrium Compound Mask: 1112146983
+      Nitrogen: -1478393360
+      Oxygen: -336436242
+      Sulfur: 1226722628
+      "S\xF8lv": -712596999
+      "S\xF8lv Compound": -1096662270
+      "S\xF8lv Compound Mask": -1177340556
+      Zink: -1136987212
+      Zink Compound: 102740304
+      Zink Compound Mask: -112700412
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

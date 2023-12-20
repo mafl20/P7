@@ -1,0 +1,162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8319174493944298340
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4152003626803215283}
+  - component: {fileID: 7494539974377485299}
+  m_Layer: 0
+  m_Name: Audio Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4152003626803215283
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8319174493944298340}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7494539974377485299
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8319174493944298340}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66b8a8dd974ad0e4481a7f04b5ebde97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: Click
+    clip: {fileID: 8300000, guid: e936b1d1caafc644bb2ee3d261f089ca, type: 3}
+    volume: 0.4
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: MainMenuMusic
+    clip: {fileID: 8300000, guid: e01895ffbb61ebc44b5ca832c47dea82, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: SetupMusic
+    clip: {fileID: 8300000, guid: d65b5de2ed4b1c94d8d4e7092c631108, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: BattleMusic
+    clip: {fileID: 8300000, guid: 127d5d8da74106049891012322489d57, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: PlayerWonGameMusic
+    clip: {fileID: 8300000, guid: 9ad127d3f332ea343b051cd4d71247cb, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: PlayerLostGameMusic
+    clip: {fileID: 8300000, guid: 539e1f34209351e468b8992fe219bcd1, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: PlayerWonRound
+    clip: {fileID: 8300000, guid: c27b2331c5884274bba4a07000618f8e, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: PlayerLostRound
+    clip: {fileID: 8300000, guid: 2a88d4622d1838346ae04edcf9c9f1c4, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: SelectedElement
+    clip: {fileID: 8300000, guid: e936b1d1caafc644bb2ee3d261f089ca, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: BoughtElement
+    clip: {fileID: 8300000, guid: 0ff47e5a89678ce4cbdc32816b4fcd0d, type: 3}
+    volume: 0.4
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: RollNewElements
+    clip: {fileID: 8300000, guid: 7bb4041f7225efe4785455a82adbaa9c, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: FrozeElement
+    clip: {fileID: 8300000, guid: dc3ed880f0dbed8448cbe73062c13324, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: SwappedElements
+    clip: {fileID: 8300000, guid: 8263aca2885219d4abaaf2fb30193c61, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: SoldElement
+    clip: {fileID: 8300000, guid: 4c29ed53b2f319b4ba8de66451f9f7dd, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: StackedElements
+    clip: {fileID: 8300000, guid: be718b12a48e9ab40a23e5de3c8d368b, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: CombinedElements
+    clip: {fileID: 8300000, guid: be718b12a48e9ab40a23e5de3c8d368b, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: CantCombine
+    clip: {fileID: 8300000, guid: 0e1dda98e783e544890041fca0426480, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: LevelUpElement
+    clip: {fileID: 8300000, guid: f661ece341641044c8aa6eedbb1d6864, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: BattleElementClash
+    clip: {fileID: 8300000, guid: a452f2eebc7f4c341aca4e2bdbc2e685, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  canvasUI: {fileID: 0}

@@ -1,0 +1,593 @@
+Dark blade
+DemonHunter
+AmbushSoldier
+Soulless Prince
+DeathStinger 
+Bloody Winter 
+DevilSlayer 
+Chaos Rider
+Blood Monger 
+BarricadeKing 
+Soul reaper 
+Destroyer of planets 
+BanditLord 
+Black Panther 
+King of Chaos
+Dark Knight 
+Undefeatable 
+KillerDrone
+Deadly Stealth 
+De Killing Machine 
+BlackHawk
+GunUp 
+FastKiller 
+SaberTooth 
+DeathAdder
+DeSniper 
+RollingGuns 
+Lone Fox 
+Death Lord 
+MaskedHunter 
+UndeadZombie 
+CosmicFighter  
+DeConquerer 
+ThunderCat
+RagingBlade
+Hell Champion 
+WildDevils 
+VampireSlayer 
+God of War
+Angel of Death
+SoulThief
+SmokingGuns
+GrimKiller 
+Lord of Venus 
+WinterSoldier 
+Power Button
+Top Dog
+PacMan 
+God of Injustice 
+DarkKingdom 
+BabyPlatypus 
+FlyingBlade
+Silent Assassin
+BleedingSteel
+GrumpyGrizzly
+Killer Bee
+SalientBeast
+ColdBlade
+DeadlyFang
+Mr. Stranger
+BigGun
+FranticSheep
+CrazyFreddy
+BurningToxin
+BigBadWolf
+DeathMagnet 
+NightRaider
+Captain Hydra
+RacingTurbo
+HissingHare
+Mistress of Doom 
+Queen of Darkness
+WitchHunter 
+Underworld Princess
+Gundy 
+Sweet Destruction 
+Charming Whip
+PrettyKiller 
+KarateLady
+Dark Goddess
+Spicy Cookie
+Naughty Kitty
+Lady Mischief 
+Kung Fu Queen
+Digital Diva 
+Fierce Chick 
+Thunder Girl 
+She-Bear
+Iron Rose 
+Rainbow Betty 
+Sweet Kitty 
+Deadly Diva 
+Cowgirl Leader
+Fierce in Pink 
+Pistol Queen 
+QueenBee 
+Fire n Ice
+tidy
+Modal Melon
+The_Deville
+SuuSperia 
+WollyMama
+Triumphant Cat
+Angst Bunny  
+Mystique Killer 
+Heavens Hawk
+CuriousGeorgia 
+Joystick 
+SorryNtSorry 
+Gemfinder 
+Lying Queen 
+Pirate Princess
+Death adder 
+Princess Fiona 
+Evil Dixie 
+Mrs. Fantastic 
+Deadly Dove
+Toxic Amber
+Harley Quinn 
+PurfectKitty
+De Enchantress
+SuperWoman 
+Fire Star
+Party Kitty 
+Curse  
+Cosmic Temptress
+DangerousChick
+SweetSpice 
+Lazy Goose 
+Candy Lips 
+Soccer Mom
+Irish Barbie
+Icy Curves
+Honey Rose 
+Tooth fairy 
+Mighty Marry 
+Foxy Babe 
+Sassy Nurse 
+Empress 
+Wild Locust
+Sugar Rush
+Death Stinger 
+Quicksilver
+Apex hunter 
+Ultimate avenger 
+Soul reaver
+Pirate King  
+Top dog
+Alien Galaxy
+Sunset Rider
+Eye of Sauron 
+Sonic Boom 
+Dragon Warrior
+The Shogun 
+Ocean Master 
+The Raven 
+Shadow Warrior 
+Boss Killer 
+Looming Doom
+Donkey Man
+Crisis Survivor
+Sharp Shooter 
+Goblin Killer 
+Incognito Ninja
+Daredevil 
+Fiery Fox 
+Undying Spartan
+Nightcrawler 
+BraveOwl
+GrumpyGiant
+DashingHare 
+DrunkenMaster
+Frantic Tiger
+EternalLord
+CarbonViper
+Dizzy Brain 
+JohnWick
+The Loner 
+Mr Willy
+Electro 
+Mr Incredible 
+DangerStorm 
+The Joker 
+Raging Rhino    
+Solo Ninja 
+Samurai X
+NightRider 
+Spitting Gun
+Rapid Fire
+Icky Thorns
+Shape Shifter
+GlitchyJimmy
+KillJoy 
+FreddyFrogman
+ElixirElla 
+NetherlandKing 
+BlazingFreesbie
+Mad Stormer
+SpikyHedgehog
+GunsInArm 
+CaptainAwesome
+SkullCrusher
+DarkEyedDemon
+FreakShow
+PlagueTonic
+HappyPanda
+PandoraBox 
+RainbowSix 
+SiegeBreaker 
+GunAkimbo
+Doomsday 
+Fallout 
+Noobs 
+Destroyer  
+Avenger 
+Punisher
+Commando 
+Raider 
+Braveheart   
+Hurricane 
+Unstoppable 
+Blood
+Rioter 
+Gunslinger 
+Mercenary 
+Supernova 
+Starlight 
+Mastermind 
+Venom 
+Expatriate 
+Annihilation 
+Athena 
+Vendetta 
+Frankenstein 
+Wolverine 
+Witcher 
+Titanium 
+Retribution 
+Salvation 
+Swordsman 
+Diviner 
+Ringleader 
+Alchemist 
+Nirvana 
+Electrified 
+Magneto 
+Rockstart 
+Firefly 
+Atomizer 
+Pathfinder 
+Volcano 
+Bomber 
+Mamba 
+Medusa 
+Airstrike
+Sorcerer 
+Guardian 
+Extinguisher 
+Exterminator 
+Enchanter 
+Champion 
+Alligator 
+Godzilla 
+Cyclops 
+Overkill 
+Geronimo 
+Hellboy
+Joe
+Dungeon 
+Phoenix 
+Chainsaw 
+Pretender 
+Blitzing 
+Armageddon 
+Flamethrower 
+Maniac 
+Crackdown
+Overthrow
+Bazooka 
+Thunderbolt
+FlyingFish 
+CoolCatz
+PatientBandit
+DebtCollector 
+Hardwick 
+VolcanoRose
+easter bunny
+BadCop
+LazyPanda
+CutePsycho
+InnocentKiller
+Gucci gang
+DizzyBum 
+Crazy Crackhead 
+Where’sMyPotato
+Cupcake Panda
+Karate Ninja 
+HappyFeet
+DieAnotherDay
+SaltySandwich 
+enter password
+UsernameTaken
+CottonCandy 
+CrazyCatMum
+Bot Maker
+Dirt Machine
+Funny Bones
+The contractor 
+Where’sMyCheese
+DancingSkeleton
+Jellybean
+HighonGuns
+CraftyZombie
+LonelyCrowd
+Named by Xbox
+Cat Hugger
+Petfinder 
+LuckyCharm 
+StrayDogs 
+HelloWorld
+rush hour
+IKillNoobs
+KeepMyKills
+GamePassOnly
+DashingDanger
+SlowSnail
+NoCake4U
+Kaboom 
+NoWayHome
+Hero
+FlipYourBurger
+Mr. Fries 
+Vanellope 
+JohnnyBravo
+Biscuit Monster 
+Blood drift 
+Pirate Lord
+Rambo 
+Battle Angel 
+Iron Hawk 
+Raging Steel
+Demon Hunter
+Toxic City
+Captured 
+Battle Royal 
+Warlords
+Caribbean Bandit
+Scarecrow 
+Milkshake 
+Gummy Gum 
+Silk road 
+D Capone 
+Pudding Butter
+Mr. Smith
+Ace of spades 
+Robinhood 
+Pebbles 
+RockDiva 
+FighterBlade 
+Magnanimous 
+Ice Prince 
+Sengoku 
+LoveNThunder
+SweatyPants 
+Bubble Gum
+IronFist 
+WildCat
+Powerpuff girls
+PeddlePuddle
+TigerShark 
+CuteDimple
+Kitana 
+CatBus 
+PinkPumpkin 
+ScurryMouse 
+Dr. Octopus
+GreenGoblin
+PegasusWing
+HermesFeet 
+tentacles
+GrumpyGrandMa
+Overdrive 
+City Wifi 
+WarZone
+Rogue Nation
+Sally Girl
+Hero Dot Com
+Mr. Money 
+Sisters of Fate
+GunPowder 
+happy trigger 
+MetallicLevithan
+BarricadePrince
+BlindingLight
+MightyMike 
+FriendlyFoe
+CunnyAdversary 
+KingdomShadow 
+FlyingFang 
+RiseofCobra
+Sun Wukong
+NavySeal 
+TombRaider 
+Nemesis
+TopsyTurvy
+ViolentHurricane
+BloodKnuckles 
+StarTropper 
+Kronos
+Midas touch 
+Rampage 
+NightSmuggler 
+DrugBaron 
+AlphaWolf 
+Dracula 
+ChocolateCity
+PonyTail 
+OceanDrift
+MightyKing
+Invincible Man 
+Heart Sorrow 
+PacificRealm 
+FixItFelix 
+WreckItRalph
+MetalGear 
+GunsReloaded
+TheDeity 
+MightyHammer 
+CrushingBlow 
+DeadlyHallow 
+FrostBite 
+LostTribe 
+CriticalDamage
+problem child
+Alucard
+MortalEngines
+Cherokeean
+DungeonDweller
+Ex-Marine
+The Invader 
+SnowFlake 
+FruitNinja 
+BurningVodka
+RollingTurtle
+Juggernaut 
+PummelKing 
+FistofFury 
+TigerFist
+LethalDamage 
+PotentPoison
+Samurai Jack 
+The Jester 
+OmegaReturns
+SpaceTropper 
+CowboyGuns
+SilverPistol 
+PowerfulKnuckle
+RingLeader
+Sweet Tooth 
+BloodyDisaster 
+Damnation 
+The Condemned 
+ArsenicBlade 
+Psycho
+Killshot 
+TwoGuns
+BeastKing
+FallenSoldier 
+PocketMonster 
+Predator 
+Cold Potato  
+DoOrDie 
+LyingMonarch
+SavageWarrior
+DoomMonger 
+DeathMonger
+EvilDead
+TotalDecay 
+Salamander
+Infectious
+KickStorm
+AtomicBlast 
+RagingButcher 
+BlackViper 
+NinjaStunt
+LifeBandit 
+SkullBreaker
+DeadlyCreek
+RomanticAdder 
+Viking
+Lucky Lucy
+OrphanMaker 
+PoisonousUrchin 
+ColdStone 
+CosmicSlash 
+StrippedJaguar 
+BigBadWolf 
+paperlover 
+BadJailer 
+RockNRoll
+Kraken 
+EternalArmor 
+MechanicKillers 
+DeathCross
+NoManLand
+ManofSteel 
+IronBender
+AirDragon 
+BroadSword 
+ExiledDemon
+Vikings
+300Spartan
+TrojanHorse 
+Cremator
+The detective 
+Corrupt Cop
+3DPixel
+FriedPork 
+Slammer
+dangerous
+DonkeyKong 
+ Attractive Fox
+ Zeus 
+OwlCity
+Nightwing 
+HydroPower
+CraftyReptile
+GunNSlash
+Dark Age
+Zombie Nation
+Vampire Lover 
+The Assassin 
+Silent Whisper 
+Celtic druid 
+Burning Passion
+Naughty dog 
+Dragon slayer
+Furious wheels 
+Game boy 
+Drama queen 
+FlameOn 
+ExpertKiller 
+Xtreme Psycho 
+Zombie chicken 
+Chicken Invaders 
+SexyDemon
+HawkEye
+Frantic Shooter
+HoplessCity
+CoolKitty
+Lethal Weapon
+Criminal Mind
+DyingHope 
+KnivesInNeck
+Dirty Detector 
+Fast Wheels
+Bomber Man
+Ocean Monster
+Death Maniac 
+PhantomKing
+Egyptian Mummy
+Prey Killer 
+CyberPunkSquad
+Ape Man 
+Chopper 
+RiseofZoro 
+DiscoGalaxy 
+WeaponHotline 
+GrizzlyBee 
+RoadRush
+Birdie 
+PrettyPeackock
+SonicTornado 
+AtlasFeet 
+OlympusBlade 
+TurboWheels
+ChargeBattery 
+LonelyTrip
+DevilAssitant 
+DeathBlade
+cheese 
+BlackSunday
+DarkVision 
+Captain A
+Fast Danger 
+MadGentleMan
+FrodoHills 
+GandalfTheGrey
+BarbieBaby
+PowerBoom 
+roaring lion 
+Cornerstone
+ItchyNScratchy

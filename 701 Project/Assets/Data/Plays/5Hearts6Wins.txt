@@ -1,0 +1,3 @@
+fugtmager,The Soluble Atom,5,7,6,          ,          ,          ,          ,          ,Fluor,Magnesium,Kalium,False,False,False,20-11-2023 01:10:41,
+fugtmager,The Ionic Ion,5,7,6,1 Zink 1 Klor 2 ,3 Fluor 3   ,1 Brom 1   ,2 Kalium 2   ,1 Sølv 1 Brom 1 ,Calcium,Oxygen,Brom,False,False,False,20-11-2023 01:06:06,
+fugtmager,The Acidic Precipitate,5,7,6,1 Sølv 1 Brom 1 ,1 Magnesium 3 Fosfor 2 ,3 Magnesium 1 Oxygen 1 ,1 Kalium 1 Brom 1 ,          ,,Nitrogen,Lithium,False,False,False,20-11-2023 00:58:23,

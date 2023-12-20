@@ -1,0 +1,41 @@
+start
+    > begin = transition (zoom in and )
+        - when done transitioning, trigger end
+    > update = 
+    > end = wait some time
+        - when wait done, trigger state switch
+
+setup teams
+    > begin =
+    > update = slide in from the left
+        - when slide done, trigger end
+    > end = wait some time
+        - when wait done, trigger state switch
+
+move teams
+    > begin = 
+    > update = slide from original slot to furthest ahead empty slot
+        - when slide done, trigger end
+    > end = wait some time
+        - when wait done, trigger state switch
+
+attack
+    > begin = dash against other team
+        - when dash done, trigger end
+    > update = 
+    > end = wait some time
+        - when wait done, trigger state switch
+
+evaluate fight
+    > begin = dead units fly out
+        - when done flying out, trigger end
+    > update = 
+    > end = wait some time
+        - when wait done, trigger state switch
+
+evaluate battle
+    > begin = check outcome
+        - depending on outcome, either end or continue
+            . end = toggle outcome overlay
+            . continue = state switch to move teams
+
